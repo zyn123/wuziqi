@@ -1,0 +1,26 @@
+body{
+	background: url('../imgs/zuozuo.jpg') no-repeat;
+	background-size: couer;
+}
+#sence{
+    position:relative;
+	border:15px solid rgb(120, 68, 44);
+	width:600px;
+	height:600px;
+	margin:30px auto 5px;
+	background: rgb(195, 143, 102);
+	box-shadow:0  0 20px black;
+	border-radius: 20px;
+	
+}
+.block{
+/*	width:59px;
+	height:59px;*/
+	margin:0 1px 1px 0;
+	/*background-color: white;*/
+	float:left;
+	border-radius: 50%;
+	position:relative;
+	
+
+}
